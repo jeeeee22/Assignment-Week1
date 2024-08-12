@@ -1,0 +1,14 @@
+C:\Users\zyank\source\repos\Week1ObjectOriented\bin\Debug\net8.0\Week1ObjectOriented.exe
+C:\Users\zyank\source\repos\Week1ObjectOriented\bin\Debug\net8.0\Week1ObjectOriented.deps.json
+C:\Users\zyank\source\repos\Week1ObjectOriented\bin\Debug\net8.0\Week1ObjectOriented.runtimeconfig.json
+C:\Users\zyank\source\repos\Week1ObjectOriented\bin\Debug\net8.0\Week1ObjectOriented.dll
+C:\Users\zyank\source\repos\Week1ObjectOriented\bin\Debug\net8.0\Week1ObjectOriented.pdb
+C:\Users\zyank\source\repos\Week1ObjectOriented\obj\Debug\net8.0\Week1ObjectOriented.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zyank\source\repos\Week1ObjectOriented\obj\Debug\net8.0\Week1ObjectOriented.AssemblyInfoInputs.cache
+C:\Users\zyank\source\repos\Week1ObjectOriented\obj\Debug\net8.0\Week1ObjectOriented.AssemblyInfo.cs
+C:\Users\zyank\source\repos\Week1ObjectOriented\obj\Debug\net8.0\Week1ObjectOriented.csproj.CoreCompileInputs.cache
+C:\Users\zyank\source\repos\Week1ObjectOriented\obj\Debug\net8.0\Week1ObjectOriented.dll
+C:\Users\zyank\source\repos\Week1ObjectOriented\obj\Debug\net8.0\refint\Week1ObjectOriented.dll
+C:\Users\zyank\source\repos\Week1ObjectOriented\obj\Debug\net8.0\Week1ObjectOriented.pdb
+C:\Users\zyank\source\repos\Week1ObjectOriented\obj\Debug\net8.0\Week1ObjectOriented.genruntimeconfig.cache
+C:\Users\zyank\source\repos\Week1ObjectOriented\obj\Debug\net8.0\ref\Week1ObjectOriented.dll
